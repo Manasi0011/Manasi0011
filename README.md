@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manasi0011
-- 👀 I’m interested in Game Development
+- 👀 I find Game Development thrilling
 - 🌱 I’m currently learning Unity 3D
 - 💞️ I’m looking to collaborate on Game creation
 - 📫 How to reach me manasikhillare11@gmail.com
